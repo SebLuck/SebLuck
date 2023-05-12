@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, my name is Sebastien Luckhoo</h1>
 <h3 align="center">I'm a Computer Science student from Middlesex University in Mauritius. I like to work with Python, Java, and JavaScript.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sebluck&label=Profile%20views&color=0e75b6&style=flat" alt="sebluck" /> </p>
+
 
 <p align="left">
 </p>
