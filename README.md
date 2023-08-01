@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, my name is Sebastien Luckhoo</h1>
-<h3 align="center">I am a graduate in Computer Science from Middlesex University in Mauritius. I like to work with Python, Java, and JavaScript.</h3>
+<h3 align="center">I am a graduate Computer Science from Middlesex University in Mauritius. Throughout my academic years, I have become passionate about programming. I like to work with Python, Java, and JavaScript.</h3>
 
 
 
